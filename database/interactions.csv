@@ -1,0 +1,31 @@
+Drug1,Drug2,Severity,Type,Mechanism,Clinical Effect,Recommendation,Reference
+Warfarin,Aspirin,Major,Pharmacodynamic,Additive anticoagulant effect,Increased risk of bleeding,Avoid combination unless necessary,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Metformin,Insulin,Moderate,Pharmacodynamic,Additive glucose lowering,Hypoglycemia,Monitor blood glucose,Katzung Basic & Clinical Pharmacology
+Ciprofloxacin,Calcium,Moderate,Pharmacokinetic,Chelation in GI tract,Reduced ciprofloxacin absorption,Separate administration by 2 hours,Katzung Basic & Clinical Pharmacology
+Digoxin,Verapamil,Major,Pharmacokinetic,Reduced digoxin clearance,Digoxin toxicity,Monitor digoxin levels,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ibuprofen,Lisinopril,Moderate,Pharmacodynamic,Reduced antihypertensive effect,Elevated blood pressure,Monitor blood pressure,Katzung Basic & Clinical Pharmacology
+Clopidogrel,Omeprazole,Moderate,Pharmacokinetic,CYP2C19 inhibition,Reduced antiplatelet effect,Consider pantoprazole instead,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Simvastatin,Clarithromycin,Major,Pharmacokinetic,CYP3A4 inhibition,Increased statin toxicity,Avoid combination,Katzung Basic & Clinical Pharmacology
+Sildenafil,Nitroglycerin,Contraindicated,Pharmacodynamic,Excessive vasodilation,Severe hypotension,Do not use together,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lithium,Hydrochlorothiazide,Major,Pharmacokinetic,Reduced lithium clearance,Lithium toxicity,Monitor lithium levels,Katzung Basic & Clinical Pharmacology
+Methotrexate,Trimethoprim,Major,Pharmacodynamic,Additive antifolate effect,Bone marrow suppression,Avoid combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Clopidogrel,Major,Pharmacodynamic,Additive antithrombotic effect,Severe bleeding risk,Avoid unless essential,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Ibuprofen,Major,Pharmacodynamic,Platelet inhibition plus anticoagulation,GI bleeding risk,Avoid NSAIDs,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Paracetamol,Moderate,Pharmacodynamic,High doses may increase INR,Increased bleeding risk,Monitor INR,Katzung Basic & Clinical Pharmacology
+Warfarin,Azithromycin,Moderate,Pharmacokinetic,Altered anticoagulant response,Elevated INR,Monitor INR,Katzung Basic & Clinical Pharmacology
+Digoxin,Furosemide,Moderate,Pharmacodynamic,Hypokalemia increases digoxin toxicity,Arrhythmias,Monitor potassium,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Digoxin,Spironolactone,Moderate,Pharmacokinetic,Reduced digoxin clearance,Digoxin toxicity,Monitor levels,Katzung Basic & Clinical Pharmacology
+Amlodipine,Simvastatin,Moderate,Pharmacokinetic,Increased statin concentration,Myopathy risk,Limit simvastatin dose,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ramipril,Spironolactone,Major,Pharmacodynamic,Additive potassium retention,Hyperkalemia,Monitor potassium,Katzung Basic & Clinical Pharmacology
+Losartan,Spironolactone,Major,Pharmacodynamic,Additive potassium retention,Hyperkalemia,Avoid excessive potassium,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Furosemide,Ibuprofen,Moderate,Pharmacodynamic,Reduced diuretic effect,Fluid retention,Monitor BP and edema,Katzung Basic & Clinical Pharmacology
+Metformin,Glimepiride,Moderate,Pharmacodynamic,Additive glucose lowering,Hypoglycemia,Monitor glucose,Katzung Basic & Clinical Pharmacology
+Insulin,Glimepiride,Major,Pharmacodynamic,Additive hypoglycemic effect,Severe hypoglycemia,Monitor blood glucose closely,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Metformin,Sitagliptin,Minor,Pharmacodynamic,Complementary glucose lowering,Improved glycemic control,Usually safe,Katzung Basic & Clinical Pharmacology
+Metformin,Vildagliptin,Minor,Pharmacodynamic,Complementary glucose lowering,Improved glycemic control,Usually safe,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Losartan,Moderate,Pharmacodynamic,Reduced antihypertensive effect,Elevated blood pressure,Monitor BP,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ibuprofen,Ramipril,Moderate,Pharmacodynamic,Reduced ACE inhibitor effect,Elevated blood pressure,Monitor BP,Katzung Basic & Clinical Pharmacology
+Clarithromycin,Atorvastatin,Major,Pharmacokinetic,CYP3A4 inhibition,Myopathy and rhabdomyolysis,Avoid combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Azithromycin,Digoxin,Moderate,Pharmacokinetic,Increased digoxin concentration,Digoxin toxicity,Monitor levels,Katzung Basic & Clinical Pharmacology
+Pantoprazole,Clopidogrel,Minor,Pharmacokinetic,Minimal CYP2C19 inhibition,Reduced interaction compared to omeprazole,Preferred PPI,Katzung Basic & Clinical Pharmacology
+Paracetamol,Ibuprofen,Minor,Pharmacodynamic,Different mechanisms of analgesia,Generally safe combination,Use recommended doses,Goodman & Gilman's Pharmacological Basis of Therapeutics

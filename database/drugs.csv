@@ -1,0 +1,36 @@
+Drug,Class,Indication,Route
+Warfarin,Anticoagulant,Prevention and treatment of thromboembolic disorders,Oral
+Aspirin,NSAID/Antiplatelet,Pain relief and prevention of cardiovascular events,Oral
+Metformin,Biguanide,Type 2 Diabetes Mellitus,Oral
+Insulin,Antidiabetic,Diabetes Mellitus,Injection
+Ciprofloxacin,Fluoroquinolone Antibiotic,Bacterial infections,Oral/IV
+Calcium,Mineral Supplement,Calcium deficiency,Oral
+Digoxin,Cardiac Glycoside,Heart failure and atrial fibrillation,Oral
+Verapamil,Calcium Channel Blocker,Hypertension and arrhythmias,Oral
+Ibuprofen,NSAID,Pain and inflammation,Oral
+Lisinopril,ACE Inhibitor,Hypertension and heart failure,Oral
+Clopidogrel,Antiplatelet,Prevention of thrombotic events,Oral
+Omeprazole,Proton Pump Inhibitor,GERD and peptic ulcer disease,Oral
+Simvastatin,Statin,Hyperlipidemia,Oral
+Clarithromycin,Macrolide Antibiotic,Bacterial infections,Oral
+Sildenafil,PDE5 Inhibitor,Erectile dysfunction,Oral
+Nitroglycerin,Nitrate,Angina pectoris,Sublingual
+Lithium,Mood Stabilizer,Bipolar disorder,Oral
+Hydrochlorothiazide,Thiazide Diuretic,Hypertension and edema,Oral
+Methotrexate,Antimetabolite,Rheumatoid arthritis and cancer,Oral/Injection
+Trimethoprim,Antibiotic,Urinary tract infections,Oral
+Paracetamol,Analgesic/Antipyretic,Pain and fever,Oral
+Azithromycin,Macrolide Antibiotic,Bacterial infections,Oral
+Amoxicillin + Clavulanic Acid,Penicillin Antibiotic,Bacterial infections,Oral
+Furosemide,Loop Diuretic,Edema and hypertension,Oral
+Spironolactone,Potassium-sparing Diuretic,Heart failure and edema,Oral
+Pantoprazole,Proton Pump Inhibitor,GERD and peptic ulcer,Oral
+Telmisartan,Angiotensin II Receptor Blocker,Hypertension,Oral
+Glimepiride,Sulfonylurea,Type 2 Diabetes Mellitus,Oral
+Sitagliptin,DPP-4 Inhibitor,Type 2 Diabetes Mellitus,Oral
+Vildagliptin,DPP-4 Inhibitor,Type 2 Diabetes Mellitus,Oral
+Atorvastatin,Statin,Hyperlipidemia,Oral
+Rosuvastatin,Statin,Hyperlipidemia,Oral
+Amlodipine,Calcium Channel Blocker,Hypertension,Oral
+Losartan,Angiotensin II Receptor Blocker,Hypertension,Oral
+Ramipril,ACE Inhibitor,Hypertension,Oral
