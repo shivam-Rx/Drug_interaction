@@ -6,7 +6,7 @@ import pandas as pd
 # ----------------------------------------------------
 
 st.set_page_config(
-    page_title="AI Drug Interaction Prediction Tool",
+    page_title="DRUG SAFE-Drug Interaction Prediction Tool",
     page_icon="💊",
     layout="wide"
 )
