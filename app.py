@@ -73,7 +73,7 @@ st.sidebar.metric(
 
 st.sidebar.markdown("---")
 st.sidebar.write("👨‍🎓 Developer: Shivam")
-st.sidebar.write("B.Pharm Minor Project")
+st.sidebar.write("shivam.drx08@gmail.com")
 st.sidebar.success("Version 2.0")
 
 
