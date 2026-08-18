@@ -1,17 +1,152 @@
-Brand,Generic
-Ecosprin,Aspirin
-Glycomet,Metformin
-Augmentin,Amoxicillin + Clavulanic Acid
-Crocin,Paracetamol
-Dolo 650,Paracetamol
-Azithral,Azithromycin
-Azee,Azithromycin
-Lasix,Furosemide
-Lasilactone,Furosemide + Spironolactone
-Pan 40,Pantoprazole
-Pantocid,Pantoprazole
-Telma,Telmisartan
-Amaryl,Glimepiride
-Istamet,Sitagliptin + Metformin
-Januvia,Sitagliptin
-Galvus,Vildagliptin
+Brand,Generic,Manufacturer,Strength,Dosage Form
+Ecosprin,Aspirin,,75 mg,Tablet
+Ecosprin,Aspirin,,150 mg,Tablet
+Glycomet,Metformin,,500 mg,Tablet
+Glycomet,Metformin,,850 mg,Tablet
+Glycomet,Metformin,,1000 mg,Tablet
+Augmentin,Amoxicillin + Clavulanic Acid,,625 mg,Tablet
+Augmentin,Amoxicillin + Clavulanic Acid,,1.2 g,Injection
+Crocin,Paracetamol,,500 mg,Tablet
+Crocin,Paracetamol,,650 mg,Tablet
+Dolo 650,Paracetamol,,650 mg,Tablet
+Dolo,Paracetamol,,500 mg,Tablet
+Azithral,Azithromycin,,250 mg,Tablet
+Azithral,Azithromycin,,500 mg,Tablet
+Azee,Azithromycin,,250 mg,Tablet
+Azee,Azithromycin,,500 mg,Tablet
+Lasix,Furosemide,,40 mg,Tablet
+Lasix,Furosemide,,10 mg/mL,Injection
+Lasilactone,Furosemide + Spironolactone,,20 mg + 50 mg,Tablet
+Lasilactone,Furosemide + Spironolactone,,40 mg + 50 mg,Tablet
+Pan 40,Pantoprazole,,40 mg,Tablet
+Pantocid,Pantoprazole,,40 mg,Tablet
+Telma,Telmisartan,,20 mg,Tablet
+Telma,Telmisartan,,40 mg,Tablet
+Telma,Telmisartan,,80 mg,Tablet
+Amaryl,Glimepiride,,1 mg,Tablet
+Amaryl,Glimepiride,,2 mg,Tablet
+Amaryl,Glimepiride,,4 mg,Tablet
+Januvia,Sitagliptin,,100 mg,Tablet
+Galvus,Vildagliptin,,50 mg,Tablet
+Istamet,Sitagliptin + Metformin,,50 mg + 500 mg,Tablet
+Istamet,Sitagliptin + Metformin,,50 mg + 1000 mg,Tablet
+Lisinopril,Lisinopril,,5 mg,Tablet
+Lisinopril,Lisinopril,,10 mg,Tablet
+Lisinopril,Lisinopril,,20 mg,Tablet
+Losar,Losartan,,25 mg,Tablet
+Losar,Losartan,,50 mg,Tablet
+Losar,Losartan,,100 mg,Tablet
+Ramace,Ramipril,,1.25 mg,Tablet
+Ramace,Ramipril,,2.5 mg,Tablet
+Ramace,Ramipril,,5 mg,Tablet
+Norvasc,Amlodipine,,5 mg,Tablet
+Norvasc,Amlodipine,,10 mg,Tablet
+Atorva,Atorvastatin,,10 mg,Tablet
+Atorva,Atorvastatin,,20 mg,Tablet
+Atorva,Atorvastatin,,40 mg,Tablet
+Rosuvas,Rosuvastatin,,5 mg,Tablet
+Rosuvas,Rosuvastatin,,10 mg,Tablet
+Rosuvas,Rosuvastatin,,20 mg,Tablet
+Clopivas,Clopidogrel,,75 mg,Tablet
+Clopivas,Clopidogrel,,150 mg,Tablet
+Eliquis,Apixaban,,2.5 mg,Tablet
+Eliquis,Apixaban,,5 mg,Tablet
+Xarelto,Rivaroxaban,,10 mg,Tablet
+Xarelto,Rivaroxaban,,15 mg,Tablet
+Xarelto,Rivaroxaban,,20 mg,Tablet
+Pradaxa,Dabigatran,,75 mg,Capsule
+Pradaxa,Dabigatran,,110 mg,Capsule
+Pradaxa,Dabigatran,,150 mg,Capsule
+Lopresor,Metoprolol,,25 mg,Tablet
+Lopresor,Metoprolol,,50 mg,Tablet
+Lopresor,Metoprolol,,100 mg,Tablet
+Concor,Bisoprolol,,2.5 mg,Tablet
+Concor,Bisoprolol,,5 mg,Tablet
+Concor,Bisoprolol,,10 mg,Tablet
+Cardace,Ramipril,,2.5 mg,Tablet
+Cardace,Ramipril,,5 mg,Tablet
+Cardace,Ramipril,,10 mg,Tablet
+Zestril,Lisinopril,,5 mg,Tablet
+Zestril,Lisinopril,,10 mg,Tablet
+Zestril,Lisinopril,,20 mg,Tablet
+Olmetec,Olmesartan,,10 mg,Tablet
+Olmetec,Olmesartan,,20 mg,Tablet
+Olmetec,Olmesartan,,40 mg,Tablet
+Benicar,Olmesartan,,20 mg,Tablet
+Benicar,Olmesartan,,40 mg,Tablet
+Cresar,Telmisartan,,20 mg,Tablet
+Cresar,Telmisartan,,40 mg,Tablet
+Cresar,Telmisartan,,80 mg,Tablet
+Adalat,Nifedipine,,10 mg,Tablet
+Adalat,Nifedipine,,20 mg,Tablet
+Adalat,Nifedipine,,30 mg,Tablet
+Zyloric,Allopurinol,,100 mg,Tablet
+Zyloric,Allopurinol,,300 mg,Tablet
+Feburic,Febuxostat,,40 mg,Tablet
+Feburic,Febuxostat,,80 mg,Tablet
+Crestor,Rosuvastatin,,5 mg,Tablet
+Crestor,Rosuvastatin,,10 mg,Tablet
+Crestor,Rosuvastatin,,20 mg,Tablet
+Lipitor,Atorvastatin,,10 mg,Tablet
+Lipitor,Atorvastatin,,20 mg,Tablet
+Lipitor,Atorvastatin,,40 mg,Tablet
+Zocor,Simvastatin,,10 mg,Tablet
+Zocor,Simvastatin,,20 mg,Tablet
+Zocor,Simvastatin,,40 mg,Tablet
+Clopilet,Clopidogrel,,75 mg,Tablet
+Clopilet,Clopidogrel,,150 mg,Tablet
+Plavix,Clopidogrel,,75 mg,Tablet
+Plavix,Clopidogrel,,150 mg,Tablet
+Brilinta,Ticagrelor,,60 mg,Tablet
+Brilinta,Ticagrelor,,90 mg,Tablet
+Clexane,Enoxaparin,,40 mg/0.4 mL,Injection
+Clexane,Enoxaparin,,60 mg/0.6 mL,Injection
+Heparin,Heparin,,5000 IU/mL,Injection
+Lantus,Insulin glargine,,100 IU/mL,Injection
+Humalog,Insulin lispro,,100 IU/mL,Injection
+Novorapid,Insulin aspart,,100 IU/mL,Injection
+Jardiance,Empagliflozin,,10 mg,Tablet
+Jardiance,Empagliflozin,,25 mg,Tablet
+Forxiga,Dapagliflozin,,5 mg,Tablet
+Forxiga,Dapagliflozin,,10 mg,Tablet
+Moxicip,Moxifloxacin,,400 mg,Tablet
+Moxicip,Moxifloxacin,,0.5%,Eye Drops
+Cifran,Ciprofloxacin,,250 mg,Tablet
+Cifran,Ciprofloxacin,,500 mg,Tablet
+Zithromax,Azithromycin,,500 mg,Tablet
+Althrocin,Erythromycin,,250 mg,Tablet
+Althrocin,Erythromycin,,500 mg,Tablet
+Flagyl,Metronidazole,,400 mg,Tablet
+Flagyl,Metronidazole,,500 mg,Tablet
+Doxycycline,Doxycycline,,100 mg,Capsule
+Doxycycline,Doxycycline,,100 mg,Tablet
+Monocef,Ceftriaxone,,500 mg,Injection
+Monocef,Ceftriaxone,,1 g,Injection
+Taxim,Cefotaxime,,500 mg,Injection
+Taxim,Cefotaxime,,1 g,Injection
+Zifi,Cefixime,,100 mg,Tablet
+Zifi,Cefixime,,200 mg,Tablet
+Zifi,Cefixime,,100 mg/5 mL,Suspension
+Omez,Omeprazole,,20 mg,Capsule
+Omez,Omeprazole,,40 mg,Capsule
+Razo,Rabeprazole,,20 mg,Tablet
+Razo,Rabeprazole,,40 mg,Tablet
+Domstal,Domperidone,,10 mg,Tablet
+Zofran,Ondansetron,,4 mg,Tablet
+Zofran,Ondansetron,,8 mg,Tablet
+Emeset,Ondansetron,,4 mg,Tablet
+Emeset,Ondansetron,,8 mg,Tablet
+Brufen,Ibuprofen,,200 mg,Tablet
+Brufen,Ibuprofen,,400 mg,Tablet
+Voveran,Diclofenac,,50 mg,Tablet
+Voveran,Diclofenac,,75 mg/3 mL,Injection
+Naprosyn,Naproxen,,250 mg,Tablet
+Naprosyn,Naproxen,,500 mg,Tablet
+Allegra,Fexofenadine,,120 mg,Tablet
+Allegra,Fexofenadine,,180 mg,Tablet
+Cetirizine,Cetirizine,,10 mg,Tablet
+Levocet,Levocetirizine,,5 mg,Tablet
+Montair,Montelukast,,10 mg,Tablet
+Asthalin,Salbutamol,,2 mg,Tablet
+Asthalin,Salbutamol,,4 mg,Tablet
+Budecort,Budesonide,,0.5 mg/2 mL,Respules

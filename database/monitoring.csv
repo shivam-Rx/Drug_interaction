@@ -1,0 +1,98 @@
+Drug,Monitoring Parameter,Why Monitor,Frequency/When,Action if Abnormal,Reference
+Warfarin,INR,Assess anticoagulant effect and bleeding risk,Regularly and after dose/interaction changes,Adjust therapy according to clinical protocol,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Bleeding signs,Detect excessive anticoagulation,At every clinical review,Assess urgently if significant bleeding occurs,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Aspirin,Gastrointestinal bleeding,Detect adverse GI effects,During treatment and when symptoms occur,Review therapy and investigate bleeding,Katzung Basic & Clinical Pharmacology
+Aspirin,Renal function,Detect renal adverse effects during prolonged use,Periodically in high-risk patients,Review dose and contributing factors,Katzung Basic & Clinical Pharmacology
+Metformin,eGFR,Determine safe dosing and accumulation risk,At baseline and periodically,Adjust or discontinue according to renal function,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Metformin,Blood glucose,Assess glycemic control,Regularly,Adjust diabetes treatment as clinically indicated,Katzung Basic & Clinical Pharmacology
+Metformin,HbA1c,Assess long-term glycemic control,Approximately every 3 months when treatment is being adjusted,Adjust therapy as indicated,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Metformin,Vitamin B12,Detect deficiency during long-term use,Periodically in at-risk patients,Investigate and treat deficiency,Katzung Basic & Clinical Pharmacology
+Insulin,Blood glucose,Detect inadequate control and hypoglycemia,Before/after meals or as prescribed,Adjust dose and food intake safely,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Insulin,HbA1c,Assess long-term glycemic control,Periodically,Adjust regimen as clinically indicated,Katzung Basic & Clinical Pharmacology
+Insulin,Hypoglycemia symptoms,Detect excessive insulin effect,At every use and clinical review,Treat hypoglycemia and reassess dose,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ciprofloxacin,Renal function,Assess need for dose adjustment,Before and during therapy when clinically indicated,Adjust dose according to renal function,Katzung Basic & Clinical Pharmacology
+Ciprofloxacin,Tendon symptoms,Detect tendon injury early,During and after treatment if symptoms occur,Stop and seek clinical assessment if suspected,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ciprofloxacin,CNS adverse effects,Detect serious neurologic effects,During treatment,Review or discontinue if severe,Katzung Basic & Clinical Pharmacology
+Calcium,Serum calcium,Detect hypercalcemia,When high doses or risk factors are present,Reduce/stop supplementation and investigate,Katzung Basic & Clinical Pharmacology
+Calcium,Renal function,Assess renal complications,Periodically in high-risk patients,Review supplementation and underlying condition,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Digoxin,Serum digoxin concentration,Assess toxicity and therapeutic exposure,When toxicity suspected or after relevant changes,Adjust dose according to clinical assessment,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Digoxin,Renal function,Determine drug clearance,Regularly,Adjust dose when renal function changes,Katzung Basic & Clinical Pharmacology
+Digoxin,Potassium,Detect electrolyte-related toxicity risk,Periodically and during diuretic therapy,Correct electrolyte abnormality,Katzung Basic & Clinical Pharmacology
+Digoxin,Heart rate/ECG,Detect bradycardia and arrhythmias,During therapy when clinically indicated,Review dose and treatment urgently if significant arrhythmia,Katzung Basic & Clinical Pharmacology
+Verapamil,Blood pressure,Detect hypotension,Regularly,Adjust treatment if clinically significant,Katzung Basic & Clinical Pharmacology
+Verapamil,Heart rate,Detect bradycardia,Regularly,Review dose or interacting medicines,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Verapamil,ECG,Assess conduction abnormalities,When clinically indicated,Review therapy if significant conduction disturbance,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Blood pressure,NSAIDs may increase BP,Regularly in patients with hypertension,Review NSAID use and antihypertensive therapy,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Renal function,Detect NSAID-related renal injury,Periodically in high-risk or prolonged use,Stop/review NSAID and manage renal issue,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ibuprofen,Gastrointestinal bleeding,Detect ulceration or bleeding,During treatment,Stop/review therapy and investigate,Katzung Basic & Clinical Pharmacology
+Lisinopril,Blood pressure,Assess antihypertensive effect,Regularly,Adjust treatment as indicated,Katzung Basic & Clinical Pharmacology
+Lisinopril,Serum potassium,Detect hyperkalemia,At baseline and after dose changes,Review interacting drugs and dose,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lisinopril,Creatinine/eGFR,Detect renal effects,At baseline and after dose changes,Review therapy if significant deterioration occurs,Katzung Basic & Clinical Pharmacology
+Clopidogrel,Bleeding signs,Detect excessive antiplatelet effect,Regularly and when symptoms occur,Assess severity and therapy,Katzung Basic & Clinical Pharmacology
+Clopidogrel,CBC,Detect anemia or thrombocytopenia,When clinically indicated,Investigate abnormal result and review treatment,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Omeprazole,Clinical response,Assess symptom control,During treatment,Review diagnosis and therapy,Katzung Basic & Clinical Pharmacology
+Omeprazole,Magnesium,Detect hypomagnesemia with long-term therapy,Periodically in high-risk patients,Correct deficiency and review therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Omeprazole,Vitamin B12,Detect deficiency with prolonged use,Periodically in at-risk patients,Investigate and treat deficiency,Katzung Basic & Clinical Pharmacology
+Simvastatin,Lipid profile,Assess treatment response,Periodically,Adjust dose or therapy,Katzung Basic & Clinical Pharmacology
+Simvastatin,Muscle symptoms,Detect myopathy,During treatment,Assess CK when clinically indicated and review therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Simvastatin,Liver-related symptoms,Detect possible hepatic injury,During treatment when symptoms occur,Investigate liver function and review therapy,Katzung Basic & Clinical Pharmacology
+Clarithromycin,QT risk/ECG,Detect clinically important QT prolongation,In high-risk patients or when interacting drugs are present,Review interacting medicines and treatment,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Clarithromycin,Liver function,Detect hepatic injury,When clinically indicated,Review or discontinue if significant injury suspected,Katzung Basic & Clinical Pharmacology
+Clarithromycin,Drug interactions,Prevent serious interaction-related toxicity,Before prescribing and during therapy,Modify interacting therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Sildenafil,Blood pressure,Detect excessive vasodilation,After initiation/dose changes and when symptomatic,Review dose and interacting medicines,Katzung Basic & Clinical Pharmacology
+Sildenafil,Clinical response,Assess effectiveness,During treatment,Review dose and underlying condition,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Nitroglycerin,Blood pressure,Detect hypotension,During initiation and dose changes,Reduce/hold according to clinical protocol,Katzung Basic & Clinical Pharmacology
+Nitroglycerin,Heart rate,Detect compensatory tachycardia or bradycardia,During clinical assessment,Review therapy if significant,Katzung Basic & Clinical Pharmacology
+Lithium,Serum lithium,Detect toxicity and maintain therapeutic exposure,After dose changes and periodically,Adjust dose according to level and clinical status,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lithium,Renal function,Detect reduced clearance,Regularly,Adjust therapy if renal function changes,Katzung Basic & Clinical Pharmacology
+Lithium,Thyroid function,Detect hypothyroidism,Periodically,Manage thyroid abnormality and review lithium therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lithium,Sodium/hydration,Detect factors that increase toxicity risk,During illness and periodically,Correct dehydration/sodium changes and reassess lithium,Katzung Basic & Clinical Pharmacology
+Hydrochlorothiazide,Blood pressure,Assess antihypertensive effect,Regularly,Adjust therapy as clinically indicated,Katzung Basic & Clinical Pharmacology
+Hydrochlorothiazide,Potassium,Detect hypokalemia,Periodically and after dose changes,Correct electrolyte abnormality,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Hydrochlorothiazide,Sodium,Detect hyponatremia,Periodically in high-risk patients,Correct abnormality and review dose,Katzung Basic & Clinical Pharmacology
+Hydrochlorothiazide,Renal function,Assess kidney function,Periodically,Review treatment if renal function deteriorates,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Methotrexate,CBC,Detect bone marrow suppression,Regularly,Withhold/review therapy and investigate,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Methotrexate,Liver function,Detect hepatotoxicity,Regularly,Review dose and treatment,Katzung Basic & Clinical Pharmacology
+Methotrexate,Renal function,Detect impaired clearance and toxicity risk,Regularly,Adjust/withhold according to clinical protocol,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Trimethoprim,Serum potassium,Detect hyperkalemia,In high-risk patients and during prolonged therapy,Review dose and interacting drugs,Katzung Basic & Clinical Pharmacology
+Trimethoprim,Renal function,Assess clearance and dose requirement,During prolonged therapy or renal impairment,Adjust dose,Katzung Basic & Clinical Pharmacology
+Paracetamol,Total daily dose,Prevent accidental overdose,At every medication review,Keep total dose within recommended limits,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Paracetamol,Liver function,Detect hepatotoxicity in high-risk/prolonged use,When clinically indicated,Review treatment and investigate,Katzung Basic & Clinical Pharmacology
+Azithromycin,QT risk/ECG,Detect QT prolongation in high-risk patients,When clinically indicated,Review interacting medicines and therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Azithromycin,Liver function,Detect hepatic injury,When clinically indicated,Review/discontinue if significant injury suspected,Katzung Basic & Clinical Pharmacology
+Amoxicillin + Clavulanic Acid,Renal function,Determine appropriate dose,At baseline and during prolonged therapy when indicated,Adjust dose,Katzung Basic & Clinical Pharmacology
+Amoxicillin + Clavulanic Acid,Liver function,Detect cholestatic/hepatic injury,When symptoms or risk factors occur,Review/discontinue if significant injury suspected,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Furosemide,Blood pressure,Assess response and hypotension,Regularly,Adjust dose as clinically indicated,Katzung Basic & Clinical Pharmacology
+Furosemide,Weight/fluid status,Assess diuretic response,Regularly in edema/heart failure,Adjust therapy according to volume status,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Furosemide,Potassium,Detect hypokalemia,Regularly,Replace/review therapy as indicated,Katzung Basic & Clinical Pharmacology
+Furosemide,Renal function,Detect excessive volume depletion or renal effects,Regularly,Adjust treatment,Katzung Basic & Clinical Pharmacology
+Spironolactone,Potassium,Detect hyperkalemia,At baseline and after dose changes,Adjust/withhold therapy according to severity,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Spironolactone,Renal function,Assess clearance and hyperkalemia risk,Regularly,Review dose and interacting medicines,Katzung Basic & Clinical Pharmacology
+Spironolactone,Blood pressure,Assess therapeutic effect,Regularly,Adjust therapy as indicated,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Pantoprazole,Clinical response,Assess symptom control,During treatment,Review diagnosis and duration,Katzung Basic & Clinical Pharmacology
+Pantoprazole,Magnesium,Detect hypomagnesemia during prolonged therapy,Periodically in high-risk patients,Correct deficiency and review therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Pantoprazole,Vitamin B12,Detect deficiency during prolonged therapy,Periodically in at-risk patients,Investigate and treat deficiency,Katzung Basic & Clinical Pharmacology
+Telmisartan,Blood pressure,Assess antihypertensive response,Regularly,Adjust therapy as clinically indicated,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Telmisartan,Potassium,Detect hyperkalemia,At baseline and after dose changes,Review dose and interacting drugs,Katzung Basic & Clinical Pharmacology
+Telmisartan,Creatinine/eGFR,Detect renal deterioration,At baseline and after dose changes,Review therapy if significant deterioration occurs,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Glimepiride,Blood glucose,Assess control and hypoglycemia,Regularly,Adjust dose according to glucose response,Katzung Basic & Clinical Pharmacology
+Glimepiride,HbA1c,Assess long-term control,Periodically,Adjust diabetes therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Glimepiride,Hypoglycemia symptoms,Detect excessive effect,During therapy,Treat hypoglycemia and review dose,Katzung Basic & Clinical Pharmacology
+Sitagliptin,eGFR,Determine dose requirement,Regularly,Adjust dose according to renal function,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Sitagliptin,Blood glucose/HbA1c,Assess efficacy,Regularly,Adjust therapy,Katzung Basic & Clinical Pharmacology
+Vildagliptin,Liver enzymes,Detect hepatic adverse effects,Before treatment and periodically according to product guidance,Review/stop according to abnormality,Product prescribing information
+Vildagliptin,Blood glucose/HbA1c,Assess efficacy,Regularly,Adjust therapy,Product prescribing information
+Atorvastatin,Lipid profile,Assess lipid-lowering response,Periodically,Adjust therapy,Katzung Basic & Clinical Pharmacology
+Atorvastatin,Muscle symptoms,Detect myopathy,During treatment,Assess CK when clinically indicated,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Atorvastatin,Liver-related symptoms,Detect hepatic injury,When symptoms occur,Investigate and review therapy,Katzung Basic & Clinical Pharmacology
+Rosuvastatin,Lipid profile,Assess treatment response,Periodically,Adjust therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Rosuvastatin,Muscle symptoms,Detect myopathy,During treatment,Assess CK when clinically indicated,Katzung Basic & Clinical Pharmacology
+Rosuvastatin,Renal function,Assess risk in severe impairment,When clinically indicated,Review dose,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Amlodipine,Blood pressure,Assess antihypertensive effect,Regularly,Adjust therapy,Katzung Basic & Clinical Pharmacology
+Amlodipine,Edema,Detect dose-related adverse effect,During therapy,Review dose or alternative therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Losartan,Blood pressure,Assess response,Regularly,Adjust therapy,Katzung Basic & Clinical Pharmacology
+Losartan,Potassium,Detect hyperkalemia,At baseline and after dose changes,Review therapy and interacting drugs,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Losartan,Creatinine/eGFR,Detect renal deterioration,At baseline and after dose changes,Review treatment,Katzung Basic & Clinical Pharmacology
+Ramipril,Blood pressure,Assess response,Regularly,Adjust therapy,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ramipril,Potassium,Detect hyperkalemia,At baseline and after dose changes,Review interacting drugs and dose,Katzung Basic & Clinical Pharmacology
+Ramipril,Creatinine/eGFR,Detect renal effects,At baseline and after dose changes,Review therapy if significant deterioration occurs,Goodman & Gilman's Pharmacological Basis of Therapeutics

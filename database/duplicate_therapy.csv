@@ -1,0 +1,42 @@
+Drug1,Drug2,Duplicate Type,Concern,Recommendation,Reference
+Aspirin,Ibuprofen,NSAID duplication,Increased GI bleeding and renal risk,Avoid routine combined use,Katzung Basic & Clinical Pharmacology
+Aspirin,Warfarin,Antithrombotic duplication,Increased bleeding risk,Use only when specifically indicated and monitored,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Clopidogrel,Antithrombotic duplication,Increased bleeding risk,Use combination only when clinically necessary,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Apixaban,Anticoagulant duplication,Excessive anticoagulation and bleeding risk,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Rivaroxaban,Anticoagulant duplication,Excessive anticoagulation and bleeding risk,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Heparin,Anticoagulant duplication,Increased bleeding risk,Combination only during specific treatment transitions,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ibuprofen,Naproxen,NSAID duplication,Increased GI and renal toxicity,Avoid combined use,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Diclofenac,NSAID duplication,Increased GI and cardiovascular toxicity,Avoid combined use,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Aspirin,NSAID duplication,Increased GI bleeding risk,Avoid unnecessary combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Paracetamol,Paracetamol,Duplicate analgesic ingredient,Excess total daily dose can cause hepatotoxicity,Check all combination products and total daily dose,Katzung Basic & Clinical Pharmacology
+Metformin,Metformin,Duplicate antidiabetic therapy,Unnecessary duplicate exposure,Verify medicines and discontinue duplicate,Katzung Basic & Clinical Pharmacology
+Insulin,Insulin,Duplicate insulin therapy,Unintended excessive insulin may cause hypoglycemia,Verify insulin products and dosing,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Glimepiride,Gliclazide,Sulfonylurea duplication,Severe hypoglycemia risk,Avoid routine combination,Katzung Basic & Clinical Pharmacology
+Glimepiride,Glibenclamide,Sulfonylurea duplication,Severe hypoglycemia risk,Avoid combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Sitagliptin,Vildagliptin,DPP-4 inhibitor duplication,No established benefit with increased unnecessary exposure,Avoid combination,Katzung Basic & Clinical Pharmacology
+Sitagliptin,Linagliptin,DPP-4 inhibitor duplication,Duplicate therapeutic mechanism,Avoid combination,Katzung Basic & Clinical Pharmacology
+Atorvastatin,Simvastatin,Statin duplication,Increased statin exposure and myopathy risk,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Atorvastatin,Rosuvastatin,Statin duplication,Unnecessary duplicate statin therapy,Use one appropriate statin unless specifically directed,Katzung Basic & Clinical Pharmacology
+Simvastatin,Rosuvastatin,Statin duplication,Unnecessary duplicate statin therapy,Use one appropriate statin,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lisinopril,Ramipril,ACE inhibitor duplication,Excessive renin-angiotensin blockade,Do not routinely combine,Katzung Basic & Clinical Pharmacology
+Losartan,Telmisartan,ARB duplication,Excessive renin-angiotensin blockade,Do not routinely combine,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lisinopril,Losartan,ACE inhibitor plus ARB duplication,Increased renal and hyperkalemia risk,Avoid routine combination,Katzung Basic & Clinical Pharmacology
+Lisinopril,Telmisartan,ACE inhibitor plus ARB duplication,Increased renal and hyperkalemia risk,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Losartan,Ramipril,RAAS duplication,Increased hypotension hyperkalemia and renal risk,Avoid routine combination,Katzung Basic & Clinical Pharmacology
+Ramipril,Telmisartan,RAAS duplication,Increased hypotension hyperkalemia and renal risk,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Furosemide,Hydrochlorothiazide,Diuretic duplication,Excessive fluid and electrolyte loss,Combination may be used intentionally but requires monitoring,Katzung Basic & Clinical Pharmacology
+Furosemide,Spironolactone,Diuretic combination,Electrolyte changes and volume depletion,May be intentional but monitor renal function and potassium,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Hydrochlorothiazide,Chlorthalidone,Thiazide/thiazide-like duplication,Excessive diuresis and electrolyte disturbance,Avoid routine combination,Katzung Basic & Clinical Pharmacology
+Amlodipine,Nifedipine,Calcium-channel blocker duplication,Excessive hypotension and edema,Avoid routine combination,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Amlodipine,Verapamil,Calcium-channel blocker duplication,Bradycardia hypotension and conduction effects,Combination requires specialist monitoring,Katzung Basic & Clinical Pharmacology
+Omeprazole,Pantoprazole,PPI duplication,No routine benefit from duplicate acid suppression,Use one PPI unless specifically indicated,Katzung Basic & Clinical Pharmacology
+Omeprazole,Esomeprazole,PPI duplication,Duplicate proton pump inhibition,Use one PPI,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Pantoprazole,Esomeprazole,PPI duplication,Duplicate proton pump inhibition,Use one PPI,Katzung Basic & Clinical Pharmacology
+Clarithromycin,Azithromycin,Macrolide duplication,Duplicate antibiotic exposure and increased QT risk,Avoid simultaneous routine use,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ciprofloxacin,Levofloxacin,Fluoroquinolone duplication,Duplicate antibacterial mechanism and increased adverse effects,Avoid simultaneous use,Katzung Basic & Clinical Pharmacology
+Azithromycin,Erythromycin,Macrolide duplication,Duplicate therapy and QT risk,Avoid simultaneous use,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Paracetamol,Ibuprofen,Analgesic combination,Different mechanisms; not necessarily duplicate therapy,Combination may be appropriate within recommended doses,Katzung Basic & Clinical Pharmacology
+Metformin,Sitagliptin,Combination therapy,Complementary mechanisms rather than duplication,Combination may be appropriate,Katzung Basic & Clinical Pharmacology
+Metformin,Glimepiride,Combination therapy,Complementary mechanisms but increased hypoglycemia risk,Monitor glucose,Katzung Basic & Clinical Pharmacology
+Insulin,Glimepiride,Combination therapy,Additive glucose-lowering effect,Monitor closely for hypoglycemia,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Furosemide,Spironolactone,Combination therapy,Complementary diuretic effects with electrolyte considerations,May be intentional; monitor potassium and renal function,Goodman & Gilman's Pharmacological Basis of Therapeutics

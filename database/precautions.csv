@@ -1,0 +1,11 @@
+Drug,Condition,Precaution,Action,Reference
+Warfarin,Bleeding risk,"Warfarin can cause major or fatal bleeding.","Regular INR monitoring and clinical review","DailyMed – Warfarin Sodium"
+Warfarin,Diet/drug changes,"Drugs, dietary changes and other factors can alter INR response.","Review interacting medicines and maintain clinical monitoring","DailyMed – Warfarin Sodium"
+Metformin,Renal impairment,"Risk of lactic acidosis increases with renal impairment.","Assess renal function before and during therapy as appropriate","DailyMed – Metformin Hydrochloride"
+Metformin,Age ≥65 years,"Older age is listed as a risk factor for metformin-associated lactic acidosis.","Use renal-function assessment and clinical monitoring","DailyMed – Metformin Hydrochloride"
+Metformin,Hepatic impairment,"Hepatic impairment is a risk factor for metformin-associated lactic acidosis.","Use caution and consider clinical alternatives","DailyMed – Metformin Hydrochloride"
+Spironolactone,Renal impairment,"Risk of hyperkalemia is increased with impaired renal function.","Monitor potassium and renal function more closely","DailyMed – Spironolactone"
+Spironolactone,ACE inhibitor/ARB coadministration,"Concomitant drugs that increase potassium can increase hyperkalemia risk.","Monitor serum potassium and renal function","DailyMed – Spironolactone"
+Hydrochlorothiazide,Severe renal disease,"Thiazides may precipitate azotemia and cumulative effects may occur with impaired renal function.","Use caution and monitor renal status","DailyMed – Hydrochlorothiazide"
+Hydrochlorothiazide,Hepatic impairment,"Fluid/electrolyte changes may precipitate hepatic coma in progressive liver disease.","Use cautiously and monitor fluid/electrolyte status","DailyMed – Hydrochlorothiazide"
+Methotrexate,"Bone marrow, liver, lung and kidney toxicity","Serious adverse reactions can occur across multiple organ systems.","Close laboratory and clinical monitoring","DailyMed – Methotrexate"

@@ -1,0 +1,59 @@
+Drug,Contraindication,Severity,Clinical Concern,Reference
+Warfarin,Active major bleeding,Major,Anticoagulation may worsen bleeding,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Warfarin,Severe uncontrolled hypertension,Major,Increased risk of serious bleeding,Katzung Basic & Clinical Pharmacology
+Aspirin,Active gastrointestinal bleeding,Major,May worsen bleeding,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Aspirin,History of aspirin-induced hypersensitivity,Major,Risk of allergic or respiratory reaction,Katzung Basic & Clinical Pharmacology
+Metformin,Severe renal impairment below labeling threshold,Major,Accumulation may increase lactic acidosis risk,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Metformin,Metabolic acidosis,Major,Increased risk of lactic acidosis,Katzung Basic & Clinical Pharmacology
+Insulin,Known hypersensitivity to formulation,Major,Risk of serious allergic reaction,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ciprofloxacin,History of serious hypersensitivity to fluoroquinolones,Major,Risk of severe allergic reaction,Katzung Basic & Clinical Pharmacology
+Ciprofloxacin,Concomitant tizanidine therapy,Major,Marked increase in tizanidine exposure and hypotension,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Calcium,Hypercalcemia,Major,Additional calcium may worsen hypercalcemia,Katzung Basic & Clinical Pharmacology
+Digoxin,Ventricular fibrillation,Major,Digoxin may worsen the arrhythmia,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Digoxin,Known digoxin hypersensitivity,Major,Risk of serious adverse reaction,Katzung Basic & Clinical Pharmacology
+Verapamil,Severe hypotension,Major,May further reduce blood pressure,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Verapamil,Severe bradycardia,Major,May worsen slow heart rate,Katzung Basic & Clinical Pharmacology
+Ibuprofen,Active gastrointestinal bleeding,Major,NSAID therapy may worsen bleeding,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ibuprofen,Severe NSAID hypersensitivity,Major,Risk of serious hypersensitivity reaction,Katzung Basic & Clinical Pharmacology
+Lisinopril,Previous ACE-inhibitor angioedema,Major,Increased risk of recurrent angioedema,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lisinopril,Pregnancy,Major,ACE inhibitors can cause fetal toxicity,Katzung Basic & Clinical Pharmacology
+Clopidogrel,Active pathological bleeding,Major,Antiplatelet effect may worsen bleeding,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Omeprazole,Known hypersensitivity to proton pump inhibitors,Major,Risk of allergic reaction,Katzung Basic & Clinical Pharmacology
+Simvastatin,Active liver disease,Major,Statin therapy may worsen hepatic injury,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Simvastatin,Pregnancy,Major,Statin exposure is not recommended,Katzung Basic & Clinical Pharmacology
+Clarithromycin,History of serious macrolide hypersensitivity,Major,Risk of severe allergic reaction,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Clarithromycin,Concomitant ergotamine therapy,Major,Risk of serious ergot toxicity,Katzung Basic & Clinical Pharmacology
+Sildenafil,Concomitant nitrate therapy,Contraindicated,Severe potentially life-threatening hypotension,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Sildenafil,Severe cardiovascular instability,Major,Sexual activity and vasodilation may pose serious risk,Katzung Basic & Clinical Pharmacology
+Nitroglycerin,Concomitant PDE5 inhibitor therapy,Contraindicated,Severe hypotension may occur,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Lithium,Severe sodium depletion,Major,Reduced sodium can increase lithium toxicity,Katzung Basic & Clinical Pharmacology
+Lithium,Significant renal failure,Major,Reduced clearance can cause lithium accumulation,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Hydrochlorothiazide,Anuria,Major,Diuretic cannot produce desired effect and may cause harm,Katzung Basic & Clinical Pharmacology
+Hydrochlorothiazide,Severe hypersensitivity to sulfonamide-related diuretics,Major,Risk of hypersensitivity,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Methotrexate,Pregnancy for non-oncologic indications,Major,Embryo-fetal toxicity,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Methotrexate,Severe immunodeficiency,Major,Increased risk of serious infection and toxicity,Katzung Basic & Clinical Pharmacology
+Trimethoprim,Severe hypersensitivity,Major,Risk of serious allergic reaction,Katzung Basic & Clinical Pharmacology
+Paracetamol,Severe hypersensitivity,Major,Risk of allergic reaction,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Azithromycin,History of serious macrolide hypersensitivity,Major,Risk of severe allergic reaction,Katzung Basic & Clinical Pharmacology
+Amoxicillin + Clavulanic Acid,History of serious penicillin hypersensitivity,Major,Risk of anaphylaxis,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Amoxicillin + Clavulanic Acid,Previous cholestatic jaundice associated with this product,Major,Risk of recurrent hepatic injury,Katzung Basic & Clinical Pharmacology
+Furosemide,Anuria,Major,Diuretic response is absent and toxicity may occur,Katzung Basic & Clinical Pharmacology
+Furosemide,Severe volume depletion,Major,May worsen dehydration and hypotension,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Spironolactone,Hyperkalemia,Major,May further increase serum potassium,Katzung Basic & Clinical Pharmacology
+Spironolactone,Addison disease,Major,Potassium retention may worsen hyperkalemia,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Pantoprazole,Known hypersensitivity to proton pump inhibitors,Major,Risk of allergic reaction,Katzung Basic & Clinical Pharmacology
+Telmisartan,Pregnancy,Major,Angiotensin receptor blockade can cause fetal toxicity,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Telmisartan,Concomitant aliskiren in patients with diabetes,Major,Increased renal impairment hypotension and hyperkalemia risk,Katzung Basic & Clinical Pharmacology
+Glimepiride,Type 1 diabetes mellitus,Major,Sulfonylureas are not appropriate replacement for insulin,Katzung Basic & Clinical Pharmacology
+Glimepiride,Diabetic ketoacidosis,Major,Requires insulin-based emergency treatment,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Sitagliptin,History of serious hypersensitivity to sitagliptin,Major,Risk of severe allergic reaction,Katzung Basic & Clinical Pharmacology
+Vildagliptin,Significant hepatic impairment,Major,Hepatic safety restrictions apply,Product prescribing information
+Atorvastatin,Active liver disease,Major,May worsen hepatic injury,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Atorvastatin,Pregnancy,Major,Statin therapy is not recommended,Katzung Basic & Clinical Pharmacology
+Rosuvastatin,Active liver disease,Major,May worsen hepatic injury,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Rosuvastatin,Pregnancy,Major,Statin therapy is not recommended,Katzung Basic & Clinical Pharmacology
+Amlodipine,Known serious hypersensitivity,Major,Risk of allergic reaction,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Losartan,Pregnancy,Major,Angiotensin receptor blockade can cause fetal toxicity,Katzung Basic & Clinical Pharmacology
+Losartan,Concomitant aliskiren in patients with diabetes,Major,Increased renal impairment hypotension and hyperkalemia risk,Goodman & Gilman's Pharmacological Basis of Therapeutics
+Ramipril,Pregnancy,Major,ACE inhibitor fetal toxicity,Katzung Basic & Clinical Pharmacology
+Ramipril,Previous ACE-inhibitor angioedema,Major,Risk of recurrent angioedema,Goodman & Gilman's Pharmacological Basis of Therapeutics
